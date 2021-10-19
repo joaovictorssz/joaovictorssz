@@ -1,7 +1,7 @@
 ### Olá! Me chamo João Victor, sou desenvolvedor de software e apaixonado por programação Web. Seja bem-vindo(a) ao meu perfil!👋
 <div display="flex" align="center">
   <a href="https://github.com/joaovictorssz">
-    <div>
+    <div display="flex">
           <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joaovictorssz&show_icons=true&theme=dracula&include_all_commits=true&   count_private=true"/>
       <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictorssz&layout=compact&langs_count=7&theme=dracula"/>
     </div>
