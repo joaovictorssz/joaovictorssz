@@ -1,4 +1,4 @@
-## Olá! Me chamo João Victor e sou desenvolvedor de softwares e apaixonado por tecnologia! 
+## Hi, welcome to my profile! 
 <div>
 
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorssz&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
