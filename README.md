@@ -1,4 +1,4 @@
-## Hi, welcome to my profile! 
+## Olá, seja bem-vindo(a) por aqui!!
 <div>
 
    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovictorssz&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
